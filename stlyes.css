@@ -1,0 +1,28 @@
+.sobre{
+    display: flex;
+    justify-content: space-around;
+text-align: center;
+font-size: large;
+flex-wrap: wrap;
+}
+.fotoDePerfil{
+width: 50px;
+height: 50px;
+}
+.fotosObjetivos{
+    width: 150px;
+    height: 150px;
+}
+.foto{
+    display: flex;
+    justify-items: ;
+    width: 100px;
+    height: 100px;
+}
+.gosto{
+    display: flex;
+    justify-content: center;
+}
+p{
+    flex-wrap: wrap;
+}
